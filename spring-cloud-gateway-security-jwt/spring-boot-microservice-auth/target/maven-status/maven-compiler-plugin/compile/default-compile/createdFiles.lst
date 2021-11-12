@@ -1,0 +1,10 @@
+com\ncsi\spring\boot\auth\service\model\ApiValidationError.class
+com\ncsi\spring\boot\auth\service\model\TraceRequest.class
+com\ncsi\spring\boot\auth\service\util\JwtUtil.class
+com\ncsi\spring\boot\auth\service\exception\JwtTokenMissingException.class
+com\ncsi\spring\boot\auth\service\repository\Service1Repository.class
+com\ncsi\spring\boot\auth\service\exception\JwtTokenMalformedException.class
+com\ncsi\spring\boot\auth\service\AuthServiceApp.class
+com\ncsi\spring\boot\auth\service\model\ApiSubError.class
+com\ncsi\spring\boot\auth\service\model\ApiError.class
+com\ncsi\spring\boot\auth\service\rest\controller\AuthRestController.class

@@ -1,0 +1,11 @@
+com\ncsi\spring\boot\cloud\gateway\filter\JwtAuthenticationFilter.class
+com\ncsi\spring\boot\cloud\gateway\CloudGatewayApp.class
+com\ncsi\spring\boot\cloud\gateway\exception\JwtTokenMissingException.class
+com\ncsi\spring\boot\cloud\gateway\model\TraceRequest.class
+com\ncsi\spring\boot\cloud\gateway\config\GatewayConfig.class
+com\ncsi\spring\boot\cloud\gateway\model\ApiSubError.class
+com\ncsi\spring\boot\cloud\gateway\model\ApiValidationError.class
+com\ncsi\spring\boot\cloud\gateway\exception\JwtTokenMalformedException.class
+com\ncsi\spring\boot\cloud\gateway\repository\Service1Repository.class
+com\ncsi\spring\boot\cloud\gateway\util\JwtUtil.class
+com\ncsi\spring\boot\cloud\gateway\model\ApiError.class

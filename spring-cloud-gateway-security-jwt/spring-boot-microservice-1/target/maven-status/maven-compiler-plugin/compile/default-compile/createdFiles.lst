@@ -1,0 +1,6 @@
+com\ncsi\spring\boot\microservice\service1\model\ApiSubError.class
+com\ncsi\spring\boot\microservice\service1\model\ApiValidationError.class
+com\ncsi\spring\boot\microservice\service1\controller\Service1Controller.class
+com\ncsi\spring\boot\microservice\service1\exceptionhandler\RestExceptionHandler.class
+com\ncsi\spring\boot\microservice\service1\model\ApiError.class
+com\ncsi\spring\boot\microservice\service1\Service1App.class

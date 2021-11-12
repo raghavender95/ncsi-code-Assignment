@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: raghav
+Build-Jdk: 11.0.13
+Implementation-Title: spring-boot-microservice-2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ncsi
+Implementation-URL: https://spring.io/projects/spring-boot/spring-boot-m
+ icroservice-2
+Created-By: Maven Integration for Eclipse
+

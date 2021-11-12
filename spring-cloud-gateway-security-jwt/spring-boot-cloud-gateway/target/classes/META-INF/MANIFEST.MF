@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: raghav
+Build-Jdk: 11.0.13
+Implementation-Title: spring-boot-cloud-gateway
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ncsi
+Implementation-URL: https://spring.io/projects/spring-boot/spring-boot-c
+ loud-gateway
+Created-By: Maven Integration for Eclipse
+
